@@ -1,1 +1,1 @@
-Collection
+return "No such contact";
